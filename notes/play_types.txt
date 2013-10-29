@@ -1,0 +1,29 @@
+Types of Plays
+----------------
+
+category		Plays 				variations
+------------------------------------------------
+passing			complete pass 		complete to receiver
+									touchdown
+									+40yards
+
+				incomplete pass 	incomplete to receiver
+									batted down
+									interception
+									interception for TD
+									interception +40yards
+
+running			rush				loss of yards (<0)
+									gain of yards (>0)
+									gain for TD
+									loss for safety
+									fumble
+									fumble loss
+									
+Defensive		loss Plays 			sack
+									fumble recovery
+									interception
+
+				accumulation		yards allowed
+									points allowed
+
