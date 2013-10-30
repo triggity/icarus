@@ -19,11 +19,55 @@ running			rush				loss of yards (<0)
 									loss for safety
 									fumble
 									fumble loss
+									100 yd threshold
+									150 yd threshold
+									200 yd threshold
+									+40 yds
+									+40 yds touchdown
+
+
 									
+receiving 		reception			receiving yards
+									reception
+									touchdown
+									+40 yds
+									+40 yds touchdown
+									100 yd threshold
+									150 yd threshold
+									200 yd threshold
+
+
 Defensive		loss Plays 			sack
 									fumble recovery
 									interception
+									TD
+									safety
+									block kick
+									kickoff/pr td
 
-				accumulation		yards allowed
-									points allowed
+				accumulation		0 points allowed
+									1-6 points allowed
+									7-13 points allowed
+									14-20 points allowed
+									21-27 points allowed
+									28-34 points allowed
+									+25 points allowed
+
+
+Special Teams	Return				touchdown
+				PAT					2 point conversion
+
+
+Kicker			field goal			0-19 yards
+									20-29 yards
+									30-39 yards
+									40-49 yards
+									+50 yards
+
+				field goal miss		0-19 yards
+									20-29 yards
+									30-39 yards
+
+				PAT 				made
+									miss
 
